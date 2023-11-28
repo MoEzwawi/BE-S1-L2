@@ -25,5 +25,6 @@ public class Esercizio2 {
                 System.out.println("The number is out of range");
             }
         }
+        input.close();
     }
 }
