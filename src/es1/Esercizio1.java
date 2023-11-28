@@ -14,8 +14,8 @@ public class Esercizio1 {
         System.out.println("Insert a year");
         int year = Integer.parseInt(input.nextLine());
         boolean isItLeap = annoBisestile(year);
-        if(isItLeap) System.out.println(year + " is a leap year");
-        else System.out.println(year + " is a common year");
+        if(isItLeap) System.out.println(year + " is a leap year!");
+        else System.out.println(year + " is a common year!");
         input.close();
     }
     public static boolean stringaPariDispari(String s){
