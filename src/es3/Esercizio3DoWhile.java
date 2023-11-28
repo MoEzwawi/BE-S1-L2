@@ -2,7 +2,7 @@ package es3;
 
 import java.util.Scanner;
 
-public class Esercizio3 {
+public class Esercizio3DoWhile {
     public static  void main(String[] args){
         System.out.println("Welcome!");
         String myString;
